@@ -1,0 +1,10 @@
+  
+{
+    "domain": "mta_subway",
+    "name": "MTA Subway",
+    "documentation": "https://github.com/dintskirveli/homeassistant-mta-subway",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@dintskirveli"],
+    "homeassistant": "0.97.0"
+}
